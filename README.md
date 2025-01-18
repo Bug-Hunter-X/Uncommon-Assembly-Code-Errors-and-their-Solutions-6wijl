@@ -1,0 +1,1 @@
+This repository demonstrates some uncommon code errors that can occur in assembly language programming. The errors showcased include invalid memory access, pointer arithmetic issues, and problems with function calls.  The `bug.asm` file contains the code with errors, while `bugSolution.asm` provides corrected versions with explanations.
